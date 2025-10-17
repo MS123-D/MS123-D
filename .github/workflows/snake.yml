@@ -17,7 +17,8 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: meinamsanjanadevi
+          github_user_name: MS123-D
+          
           outputs: |
             dist/snake.svg
             dist/snake.gif
