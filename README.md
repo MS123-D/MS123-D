@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/meinam-sanjana-devi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/noght____" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="mailto:meinam.sanjana@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -70,15 +67,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MeinamSanjanaDevi&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeinamSanjanaDevi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MS123-D&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS123-D&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeinamSanjanaDevi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MS123-D&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -86,9 +83,9 @@
 ## 🐍 Contribution Snake  
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeinamSanjanaDevi/MeinamSanjanaDevi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeinamSanjanaDevi/MeinamSanjanaDevi/output/github-contribution-grid-snake-light.svg">
-  <img src="https://raw.githubusercontent.com/MeinamSanjanaDevi/MeinamSanjanaDevi/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MS123-D/MS123-D/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MS123-D/MS123-D/output/github-contribution-grid-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/MS123-D/MS123-D/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </picture>
 </p>
 
