@@ -75,9 +75,16 @@
 
 ## 📈 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username==MS123-D&bg_color=1a1b27&color=e05397&line=f78c6c&point=ffcb6b&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MS123-D&bg_color=1a1b27&color=e05397&line=f78c6c&point=ffcb6b&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="GitHub Activity Graph"/>
 </p>
 
+
+---
+
+## 🎯 Coding Metrics  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MS123-D&theme=synthwave&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
 ---
 
