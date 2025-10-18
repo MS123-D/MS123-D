@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/meinam-sanjana-devi" target="_blank">
+  <a href="https://www.linkedin.com/in/meinam-sanjana-727470251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:meinam.sanjana@example.com" target="_blank">
+  <a href="mailto:meinamsanjana7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -80,17 +80,13 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Graph  
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MS123-D/MS123-D/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MS123-D/MS123-D/output/github-contribution-grid-snake-light.svg">
-  <img src="https://raw.githubusercontent.com/MS123-D/MS123-D/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeinamSanjanaDevi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Stay curious, stay ethical, and keep learning.”</i>
+  <i>"Stay curious, stay ethical, and keep learning."</i>
 </p>
