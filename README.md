@@ -1,4 +1,4 @@
-<!-- 👋 Meinam Sanjana Devi GitHub Profile README -->
+<!--  Meinam Sanjana Devi GitHub Profile README -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Cybersecurity Banner" width="100%"/>
@@ -19,18 +19,18 @@
 
 ---
 
-## 👩‍💻 About Me  
-- 🛡️ *Cybersecurity & Network Security Enthusiast* exploring ethical hacking and penetration testing  
-- 🌐 Skilled in *Network Analysis, Packet Inspection, and Secure Infrastructure Design*  
-- 🧠 Passionate about *Offensive Security, SOC Analysis,* and *Incident Response*  
-- 💡 Strong foundation in *Python, Linux, MySQL, and Network Tools*  
-- 🚀 On a journey to become a *Certified Ethical Hacker & Network Engineer*  
+##  About Me  
+-  *Cybersecurity & Network Security Enthusiast* exploring ethical hacking and penetration testing  
+-  Skilled in *Network Analysis, Packet Inspection, and Secure Infrastructure Design*  
+-  Passionate about *Offensive Security, SOC Analysis,* and *Incident Response*  
+-  Strong foundation in *Python, Linux, MySQL, and Network Tools*  
+-  On a journey to become a *Certified Ethical Hacker & Network Engineer*  
 
 ---
 
-## 🧰 Skills  
+##  Skills  
 
-### 💻 Languages & Tools  
+###  Languages & Tools  
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### 🧩 Cybersecurity & Networking Tools  
+###  Cybersecurity & Networking Tools  
 <p align="center">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
@@ -50,16 +50,16 @@
 
 ---
 
-## 🎯 Interests & Focus  
-- 🔍 Network Packet Analysis using Wireshark  
-- 🌐 Vulnerability Scanning with Nmap  
-- 🧰 Web Exploit Testing via Burp Suite  
-- ☁️ Cloud & Infrastructure Security  
-- 📊 Data Analysis & Visualization with Tableau / Power BI  
+##  Interests & Focus  
+-  Network Packet Analysis using Wireshark  
+-  Vulnerability Scanning with Nmap  
+-  Web Exploit Testing via Burp Suite  
+-  Cloud & Infrastructure Security  
+-  Data Analysis & Visualization with Tableau / Power BI  
 
 ---
   
-## 📊 GitHub Stats  
+##  GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MS123-D&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS123-D&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
@@ -67,7 +67,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph  
+##  GitHub Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MS123-D&bg_color=1a1b27&color=e05397&line=f78c6c&point=ffcb6b&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="GitHub Activity Graph"/>
 </p>
