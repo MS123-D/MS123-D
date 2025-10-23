@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/CyberChef-000000?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ---
@@ -59,12 +58,7 @@
 - 📊 Data Analysis & Visualization with Tableau / Power BI  
 
 ---
-
-## ⚡ Fun Fact  
-💻 I debug networks faster than I can debug my sleep schedule 😴  
-
----
-
+  
 ## 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MS123-D&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
