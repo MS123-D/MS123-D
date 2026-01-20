@@ -49,15 +49,6 @@
 </p>
 
 ---
-
-##  Interests & Focus  
--  Network Packet Analysis using Wireshark  
--  Vulnerability Scanning with Nmap  
--  Web Exploit Testing via Burp Suite  
--  Cloud & Infrastructure Security  
--  Data Analysis & Visualization with Tableau / Power BI  
-
----
   
 ##  GitHub Stats  
 <p align="center">
