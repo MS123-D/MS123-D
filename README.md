@@ -20,9 +20,9 @@
 ---
 
 ##  About Me  
--  *Cybersecurity & Network Security Enthusiast* exploring ethical hacking and penetration testing  
+-  *Cybersecurity & Network Security* exploring ethical hacking and penetration testing  
 -  Skilled in *Network Analysis, Packet Inspection, and Secure Infrastructure Design*  
--  Passionate about *Offensive Security, SOC Analysis,* and *Incident Response*  
+-  Focused on *Offensive Security, SOC Analysis,* and *Incident Response*  
 -  Strong foundation in *Python, Linux, MySQL, and Network Tools*  
 -  On a journey to become a *Certified Ethical Hacker & Network Engineer*  
 
